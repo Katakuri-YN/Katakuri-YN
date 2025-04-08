@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/huy232/huy232/main/image/2.gif"  />
+  <img height="400" src="https://raw.githubusercontent.com/huy232/huy232/main/image/2.gif"  />
 </div>
 
 ###
